@@ -4,5 +4,10 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.pythonPath": "/Users/Tim/.virtualenvs/LlanoPoC1-qxj_GQWK",
+		"python.linting.flake8Args": [
+			"\"python.linting.flake8Args\": [     \"--max-line-length=120\",     \"--ignore=E402,F841,F401,E302,E305\", ],"
+		]
+	}
 }
